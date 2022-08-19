@@ -5,11 +5,11 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{F9AA6D7F-4455-4F35-A49A-D0518AFB4D32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{A95616F1-E9D1-403F-A2E7-6A979E2BFF79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{A95616F1-E9D1-403F-A2E7-6A979E2BFF79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{3C7AD664-DF5A-4E2A-A1D8-76BCE07F9DD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{3C7AD664-DF5A-4E2A-A1D8-76BCE07F9DD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeFrekansTipler", "DegerVeFrekansTipler\DegerVeFrekansTipler.csproj", "{8C81B366-8A48-4138-8A2C-5A86EB74F40D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeFrekansTipler", "DegerVeFrekansTipler\DegerVeFrekansTipler.csproj", "{8C81B366-8A48-4138-8A2C-5A86EB74F40D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
